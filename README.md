@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jay Chevli</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
-Welcome to my GitHub profile! I’m currently pursuing my M.Sc. in Information Technology at DA-IICT. I have a strong passion for backend development, mobile app development, and working on innovative projects. I’m always excited to learn new technologies and build solutions that address real-world problems.
+👋 Welcome to my GitHub profile!
+I have completed my M.Sc. in Information Technology from DA-IICT and am currently working as a Full Stack Developer. My interests lie in backend development, mobile app development, and building innovative projects. I’m always eager to learn new technologies and create solutions that solve real-world problems.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaychevli18&label=Profile%20views&color=0e75b6&style=flat" alt="jaychevli18" /> </p>
 
