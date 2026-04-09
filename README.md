@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jay Chevli</h1>
+<!-- <h1 align="center">Hi 👋, I'm Jay Chevli</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
 👋 Welcome to my GitHub profile!
@@ -29,8 +29,86 @@ I have completed my M.Sc. in Information Technology from DA-IICT and am currentl
 ## 🌐 Coding Profiles  
 <a href="https://leetcode.com/jaychevli18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/jaychevli18" height="30" width="40" /></a>
 <a href="https://geeksforgeeks.org/user/chevlijr5j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://geeksforgeeks.org/user/chevlijr5j/" height="30" width="40" /></a><br>
+</p> -->
+
+<h1 align="center">Hi 👋, I'm Jay Chevli</h1>
+<h3 align="center">Full Stack Developer | Building Scalable Web Applications 🚀</h3>
+
+👋 Welcome to my GitHub!
+
+I’m a **Full Stack Developer** with experience in building **scalable, production-ready applications** across frontend and backend.  
+I enjoy working on real-world systems involving **API design, async processing, performance optimization, and modern UI development**.
+
+💡 I focus on writing clean, efficient code and building systems that are **reliable, maintainable, and user-focused**.
+
+---
+
+### 🚀 What I Do
+- 🧠 Design and develop **end-to-end web applications**
+- ⚡ Build and scale **REST APIs and backend services**
+- 🔁 Work with **event-driven systems and async workflows**
+- 🛠️ Improve performance using **caching and resilience patterns**
+- 🎨 Create modern, responsive **frontend applications**
+
+---
+
+### 🏆 Highlight Work
+- 🚀 Contributed to building and scaling **Imtra.com**
+- 📦 Worked on a **multi-store platform (~$200K/day GMV)** improving stability and performance
+- 🧩 Developed a **custom CMS managing 180+ pages and content workflows**
+- ⚙️ Built reusable components and systems for **scalable application development**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+JavaScript, TypeScript, SQL, Python  
+
+**Frontend:**  
+Next.js, React, React Native, Tailwind CSS  
+
+**Backend:**  
+Node.js, Express.js, Prisma, REST APIs, GraphQL  
+
+**Databases:**  
+PostgreSQL, MongoDB, MySQL  
+
+**Cloud & DevOps:**  
+Azure (Blob Storage, Service Bus), Docker, Vercel  
+
+**Other:**  
+Redis, RabbitMQ, System Design, API Design, Caching, Rate Limiting  
+
+---
+
+### 🌱 Currently Exploring
+- Advanced **System Design**
+- Scalable architectures & distributed systems
+- Performance optimization techniques  
+
+---
+
+### 📫 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/jay-chevli-a79893241/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
 </p>
 
+📧 Email: **chevlijay70@gmail.com**
+
+---
+
+### 🌐 Coding Profiles
+<a href="https://leetcode.com/jaychevli18" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+<a href="https://geeksforgeeks.org/user/chevlijr5j/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
+</a>
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaychevli18&show_icons=true&locale=en&layout=compact" alt="jaychevli18" /></p>
 
