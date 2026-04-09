@@ -110,9 +110,9 @@ Redis, RabbitMQ, System Design, API Design, Caching, Rate Limiting
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaychevli18&show_icons=true&locale=en&layout=compact" alt="jaychevli18" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaychevli18&show_icons=true&locale=en" alt="jaychevli18" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaychevli18&show_icons=true&locale=en&layout=compact" alt="jaychevli18" /></p>
+ -->
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaychevli18&show_icons=true&locale=en" alt="jaychevli18" /></p> -->
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaychevli18&" alt="jaychevli18" /></p>
